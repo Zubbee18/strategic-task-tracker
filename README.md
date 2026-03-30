@@ -169,6 +169,7 @@ Trigger it by saying something like:
 ---
 
 ## Notion Database Schema
+Note that this is optional but this is just to give you a starting point to test
 
 ### Meeting Notes Database
 | Property | Type | Notes |
